@@ -12,7 +12,7 @@
 <tr>
 <td width="38%" valign="middle" align="center">
 
-<img src="./assets/farhan-profile.png" width="300" alt="Farhan Alam" />
+<./assets/farhan-profile.png.jpeg />
 
 <br><br>
 
