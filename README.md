@@ -1,439 +1,388 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=FARHAN%20ALAM&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=FULL-STACK%20%7C%20FINTECH%20%7C%20BLOCKCHAIN%20%7C%20AI%20%7C%20IOT%20%7C%20DEVOPS&descAlignY=58&descSize=17&animation=fadeIn&color=0:050816,45:0f172a,75:0c4a6e,100:312e81" width="100%" />
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Building+systems+people+can+actually+use.;Engineering+products+from+idea+to+deployment.;FinTech+%7C+Blockchain+%7C+AI+%7C+IoT;Full-Stack+Engineering+%7C+Cloud+%7C+DevOps;Build.+Ship.+Break.+Learn.+Repeat." alt="Typing animation" />
+<img src="./assets/assets%3Afarhan-profile.png.jpeg" width="320" alt="Farhan Alam">
 
 <br><br>
 
-<a href="https://github.com/farhanalam100">
-<img src="https://img.shields.io/github/followers/farhanalam100?label=FOLLOWERS&style=for-the-badge&color=0ea5e9&labelColor=0f172a" />
-</a>
-&nbsp;
-<a href="https://github.com/farhanalam100?tab=repositories">
-<img src="https://img.shields.io/badge/REPOSITORIES-7-7c3aed?style=for-the-badge&labelColor=0f172a" />
-</a>
-&nbsp;
-<a href="https://github.com/farhanalam100">
-<img src="https://komarev.com/ghpvc/?username=farhanalam100&style=for-the-badge&color=38bdf8&label=PROFILE+VIEWS" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,45:0b1f3a,75:123b5a,100:6d28d9&height=230&section=header&text=FARHAN%20ALAM&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=FULL-STACK%20%7C%20FINTECH%20%7C%20BLOCKCHAIN%20%7C%20AI%20%7C%20IOT%20%7C%20DEVOPS&descAlignY=60&descSize=17&animation=fadeIn">
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=800&color=38BDF8&center=true&vCenter=true&width=850&lines=Building+systems+that+move+money%2C+data+and+ideas.;Full-Stack+engineering+from+frontend+to+infrastructure.;FinTech+%7C+Blockchain+%7C+AI+%7C+IoT+%7C+Cloud.;Build.+Ship.+Break.+Learn.+Repeat." alt="Typing animation">
+
+<br><br>
+
+<a href="https://github.com/farhanalam100"><img src="https://img.shields.io/badge/GITHUB-farhanalam100-111827?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://github.com/farhanalam100?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-7-111827?style=for-the-badge&logo=github&logoColor=38BDF8"></a>
 
 </div>
 
-<br>
+~/farhan
 
----
+I build products at the intersection of software, finance and real-world systems.
 
-# `~/farhan`
+I'm a Full-Stack Developer interested in the engineering behind serious products.
+
+FINTECH BLOCKCHAIN AI IOT BACKEND CLOUD DEVOPS
+
+I like taking an idea from a rough prototype and pushing it toward something people can actually use.
+
+architecture → APIs → databases → infrastructure → automation → deployment
+
+01 — ENGINEERING FOCUS
 
 <table>
 <tr>
-<td width="38%" align="center" valign="middle">
+<td width="50%">
 
-<img src="./assets/farhan-profile.png.jpeg" width="330" alt="Farhan Alam" />
+FINTECH
 
-<br><br>
-
-<img src="https://img.shields.io/badge/BUILD-SHIP-ITERATE-0f172a?style=for-the-badge&labelColor=020617&color=38bdf8" />
+Building software around financial infrastructure, transparent transactions and systems where reliability actually matters.
 
 </td>
+<td width="50%">
 
-<td width="62%" valign="top">
+BLOCKCHAIN
 
-## FARHAN ALAM
+Exploring decentralized systems, smart contracts, on-chain transparency and blockchain-powered applications.
 
-### Full-Stack Engineer building at the intersection of software, finance and real-world systems.
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-I like taking ideas from rough prototypes to products that people can actually use.
+FULL-STACK
 
-My work moves across **FinTech, Blockchain, AI, IoT, backend systems, cloud infrastructure and DevOps**.
+React, Next.js, TypeScript, JavaScript, APIs, databases and production-focused application architecture.
 
-I'm interested in the engineering behind serious products:
+</td>
+<td width="50%">
 
-- scalable backend architecture
-- financial and blockchain systems
-- intelligent applications
-- real-world IoT infrastructure
-- cloud deployment and automation
-- developer tooling
-- reliable APIs and distributed systems
+AI SYSTEMS
 
-I care less about simply writing code and more about understanding the entire path:
+Building practical AI features that solve problems rather than adding AI just for the label.
 
-`IDEA → ARCHITECTURE → CODE → INFRASTRUCTURE → DEPLOYMENT → USERS`
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-<br>
+IOT
 
-**CURRENT INTERESTS**
+Connecting software to sensors, hardware, telemetry and real-world infrastructure.
 
-`FinTech` `Blockchain` `Distributed Systems` `AI` `IoT` `Cloud` `DevOps` `APIs`
+</td>
+<td width="50%">
+
+DEVOPS
+
+CI/CD, GitHub Actions, deployment automation, cloud infrastructure and the systems behind the application.
 
 </td>
 </tr>
 </table>
 
----
-
-# `01 — WHAT I BUILD`
+02 — SELECTED BUILDS
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-## Financial Systems
+TRACEAID
 
-Building toward software where money can move transparently, securely and intelligently.
+Transparent disaster-relief settlement on Stellar
 
-**Focus**
+A blockchain-powered platform designed to make disaster-relief funding more transparent.
 
-- FinTech
-- Payments
-- Blockchain
-- Smart contracts
-- Financial infrastructure
-- APIs
-- Data systems
+Stellar / Soroban
+
+Smart contracts
+
+Next.js
+
+React
+
+TypeScript
+
+Freighter wallet
+
+On-chain transaction trail
+
+<a href="https://github.com/farhanalam100/Traceaid"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-111827?style=for-the-badge&logo=github"></a>
 
 </td>
-
 <td width="50%" valign="top">
 
-## Real-World Systems
+AQUASEVA
 
-I also build software that connects with the physical world.
+Real-time water intelligence for communities
 
-**Focus**
+An IoT system combining sensors, embedded hardware, real-time data and public dashboards to monitor water quality.
 
-- IoT
-- Sensors
-- ESP32
-- Real-time monitoring
-- Automation
-- Alert systems
-- Environmental technology
+ESP32
+
+IoT sensors
+
+pH
+
+Turbidity
+
+TDS
+
+Temperature
+
+4G / WiFi
+
+SMS / WhatsApp alerts
+
+<a href="https://aquaseva.netlify.app/"><img src="https://img.shields.io/badge/LIVE_SYSTEM-0EA5E9?style=for-the-badge"></a>
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
-## AI Systems
+SAFESTEP
 
-Using AI where it actually improves the product rather than adding AI for the sake of it.
+AI technology companion for senior citizens
 
-**Focus**
+An AI-powered system designed to help seniors detect scams, understand technology and learn digital skills.
 
-- AI applications
-- Gemini
-- intelligent interfaces
-- automation
-- information systems
-- AI-assisted workflows
+AI
+
+React
+
+Vite
+
+JavaScript
+
+Scam detection
+
+Accessibility
+
+Interactive learning
+
+<a href="https://github.com/farhanalam100/SafeStep"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-111827?style=for-the-badge&logo=github"></a>
 
 </td>
-
 <td width="50%" valign="top">
 
-## Infrastructure
+SURAKSHA
 
-I enjoy the layer between code and production.
+Climate risk intelligence for India
 
-**Focus**
+A platform designed around disaster awareness, environmental data and AI-assisted risk information.
 
-- GitHub Actions
-- CI/CD
-- Cloud
-- Deployment
-- Linux
-- APIs
-- monitoring
-- developer tooling
+AI
+
+Gemini
+
+JavaScript
+
+Chart.js
+
+Climate data
+
+Emergency information
+
+<a href="https://github.com/farhanalam100/Suraksha"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-111827?style=for-the-badge&logo=github"></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+DEVLINKS
+
+Developer resource intelligence
+
+A developer resource hub with search, collections, analytics, command palette, sharing and local persistence.
+
+JavaScript
+
+HTML
+
+CSS
+
+LocalStorage
+
+Command palette
+
+Analytics
+
+Deployment
+
+<a href="https://github.com/farhanalam100/Dev-Links"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-111827?style=for-the-badge&logo=github"></a>
+
+</td>
+<td width="50%" valign="top">
+
+FLASHCARDS
+
+A complete study workspace
+
+A study platform with AI card generation, spaced repetition, analytics, achievements, Pomodoro and offline support.
+
+JavaScript
+
+AI
+
+SM-2
+
+PWA
+
+Analytics
+
+LocalStorage
+
+Offline support
+
+<a href="https://github.com/farhanalam100/Flashcard-App"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-111827?style=for-the-badge&logo=github"></a>
 
 </td>
 </tr>
 </table>
 
----
+03 — THE STACK
 
-# `02 — SELECTED BUILDS`
+<div align="center">
+
+LANGUAGES
+
+<img src="https://skillicons.dev/icons?i=js,ts,cpp,rust,html,css&theme=dark">
+
+FRONTEND
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind&theme=dark">
+
+BACKEND / INFRASTRUCTURE
+
+<img src="https://skillicons.dev/icons?i=nodejs,git,github,githubactions,docker,linux&theme=dark">
+
+CLOUD / DATA / HARDWARE
+
+<img src="https://skillicons.dev/icons?i=netlify,arduino,postgres,mongodb,redis&theme=dark">
+
+WEB3 / AI
+
+<img src="https://skillicons.dev/icons?i=solidity,rust&theme=dark">
+
+</div>
+
+04 — HOW I THINK
+
+                     ┌─────────────────────┐
+                     │       PROBLEM       │
+                     └──────────┬──────────┘
+                                │
+                                ▼
+                     ┌─────────────────────┐
+                     │       RESEARCH      │
+                     └──────────┬──────────┘
+                                │
+                                ▼
+                     ┌─────────────────────┐
+                     │      PROTOTYPE      │
+                     └──────────┬──────────┘
+                                │
+                                ▼
+              ┌─────────────────────────────────┐
+              │          BUILD THE SYSTEM       │
+              │                                 │
+              │  Frontend → Backend → Database │
+              │  API → Cloud → CI/CD → Deploy  │
+              └────────────────┬────────────────┘
+                               │
+                               ▼
+                     ┌─────────────────────┐
+                     │        SHIP         │
+                     └──────────┬──────────┘
+                                │
+                                ▼
+                     ┌─────────────────────┐
+                     │       ITERATE       │
+                     └─────────────────────┘
+
+I care about the entire path from idea to production.
+
+Not just writing code.
+
+05 — GITHUB ACTIVITY
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=farhanalam100&show_icons=true&hide_border=true&bg_color=00000000&title_color=38BDF8&icon_color=7C3AED&text_color=CBD5E1&rank_icon=github" height="180">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhanalam100&layout=compact&hide_border=true&bg_color=00000000&title_color=38BDF8&text_color=CBD5E1" height="180">
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=farhanalam100&theme=transparent&hide_border=true&ring=38BDF8&fire=7C3AED&currStreakLabel=38BDF8&sideLabels=CBD5E1&dates=64748B">
+
+</div>
+
+06 — CURRENTLY BUILDING
+
+[ FINTECH      ]  Financial infrastructure
+[ BLOCKCHAIN   ]  Stellar / smart contracts / Web3
+[ FULL-STACK   ]  Production-grade web applications
+[ AI           ]  Practical intelligent systems
+[ IOT          ]  Software connected to physical systems
+[ DEVOPS       ]  Automation / CI/CD / cloud infrastructure
+
+07 — ENGINEERING PRINCIPLES
 
 <table>
 <tr>
+<td align="center" width="25%">
 
-<td width="50%" valign="top">
+01
 
-## TRACEAID
+BUILD
 
-### Transparent disaster-relief settlement on Stellar
-
-A blockchain-based relief funding system designed around transparent movement of funds between donors, campaigns and relief partners.
-
-**Stack**
-
-`Next.js` `React` `TypeScript` `Rust` `Soroban` `Stellar` `Freighter`
-
-<a href="https://github.com/farhanalam100/Traceaid">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORY-0f172a?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+Turn ideas into working systems.
 
 </td>
+<td align="center" width="25%">
 
-<td width="50%" valign="top">
+02
 
-## AQUASEVA
-
-### Know what you drink.
-
-An IoT water-quality monitoring concept built around affordable sensors, real-time readings and automatic alerts for communities.
-
-**Stack**
-
-`ESP32` `C++` `IoT` `Sensors` `4G/WiFi` `Real-Time Data`
-
-<a href="https://aquaseva.netlify.app/">
-<img src="https://img.shields.io/badge/LIVE_PROJECT-0f172a?style=for-the-badge&logo=netlify&logoColor=white" />
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## SAFESTEP
-
-### AI technology companion
-
-A product focused on helping senior citizens navigate technology, identify scams and understand digital systems through a simpler interface.
-
-**Stack**
-
-`React` `Vite` `JavaScript` `AI` `UX`
-
-<a href="https://github.com/farhanalam100/SafeStep">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORY-0f172a?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-## SURAKSHA
-
-### Climate risk intelligence
-
-A web application designed to surface disaster and climate risks across Indian cities with AI-assisted information and emergency resources.
-
-**Stack**
-
-`HTML` `CSS` `JavaScript` `Gemini` `Chart.js`
-
-<a href="https://github.com/farhanalam100/Suraksha">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORY-0f172a?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## DEVLINKS
-
-### Developer resource infrastructure
-
-A developer resource hub with search, collections, keyboard navigation, analytics and a command-palette style interface.
-
-**Stack**
-
-`JavaScript` `HTML` `CSS` `LocalStorage`
-
-<a href="https://github.com/farhanalam100/Dev-Links">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORY-0f172a?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-## FLASHCARDS
-
-### Smart study workspace
-
-A full browser-based study application with AI-assisted card generation, spaced repetition, analytics, achievements and offline support.
-
-**Stack**
-
-`JavaScript` `HTML` `CSS` `PWA` `AI`
-
-<a href="https://github.com/farhanalam100/Flashcard-App">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORY-0f172a?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</td>
-
-</tr>
-</table>
-
----
-
-# `03 — ENGINEERING STACK`
-
-<div align="center">
-
-### LANGUAGES
-
-<img src="https://skillicons.dev/icons?i=js,ts,rust,cpp,html,css" />
-
-<br><br>
-
-### FRONTEND
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite" />
-
-<br><br>
-
-### BACKEND / INFRASTRUCTURE
-
-<img src="https://skillicons.dev/icons?i=nodejs,linux,git,githubactions,docker" />
-
-<br><br>
-
-### BLOCKCHAIN
-
-<img src="https://skillicons.dev/icons?i=rust" />
-
-<br>
-
-`Stellar` `Soroban` `Smart Contracts` `Wallet Integration`
-
-<br><br>
-
-### AI / IOT
-
-<img src="https://skillicons.dev/icons?i=arduino" />
-
-<br>
-
-`Gemini` `ESP32` `Sensors` `Real-Time Systems`
-
-</div>
-
----
-
-# `04 — SYSTEM STATUS`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=farhanalam100&show_icons=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=7c3aed&text_color=c9d1d9&rank=S" height="180" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhanalam100&layout=compact&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&langs_count=8" height="180" />
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=farhanalam100&theme=github-dark-blue&hide_border=true&background=0D1117&ring=38BDF8&fire=7C3AED&currStreakLabel=38BDF8" width="70%" />
-
-</div>
-
----
-
-# `05 — GITHUB ACTIVITY`
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=farhanalam100&theme=github_dark" width="95%" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<a href="https://github.com/farhanalam100?tab=overview&from=2026-01-01&to=2026-12-31">
-<img src="https://img.shields.io/badge/VIEW_FULL_ACTIVITY-0f172a?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
-
----
-
-# `06 — THE BUILDER LOOP`
-
-```text
-        ┌─────────────────────────────┐
-        │          OBSERVE            │
-        │     Find the real problem   │
-        └──────────────┬──────────────┘
-                       │
-                       ▼
-        ┌─────────────────────────────┐
-        │           DESIGN            │
-        │   Architecture before code  │
-        └──────────────┬──────────────┘
-                       │
-                       ▼
-        ┌─────────────────────────────┐
-        │            BUILD            │
-        │      Prototype → Product    │
-        └──────────────┬──────────────┘
-                       │
-                       ▼
-        ┌─────────────────────────────┐
-        │            SHIP             │
-        │       Deploy to users       │
-        └──────────────┬──────────────┘
-                       │
-                       ▼
-        ┌─────────────────────────────┐
-        │           ITERATE           │
-        │    Measure → Learn → Fix    │
-        └──────────────┬──────────────┘
-                       │
-                       └───────────────► BUILD AGAIN
-07 — CURRENTLY EXPLORING
-Blockchain        ████████████████████  Deepening
-FinTech           ███████████████████░  Building
-Full-Stack        ████████████████████  Shipping
-AI                █████████████████░░░  Exploring
-IoT               ████████████████░░░░  Building
-DevOps            ███████████████░░░░░  Automating
-Cloud             ██████████████░░░░░░  Learning
-Distributed Sys.  █████████████░░░░░░░  Exploring
-08 — PRINCIPLES
-<table> <tr> <td width="33%" align="center">
 SHIP
 
-Working software
-beats perfect ideas.
+A finished product beats a perfect prototype.
 
-</td> <td width="33%" align="center">
-ENGINEER
+</td>
+<td align="center" width="25%">
 
-Understand the system,
-not just the syntax.
+03
 
-</td> <td width="33%" align="center">
-COMPOUND
+BREAK
 
-Every project should
-teach something new.
+Understand why systems fail.
 
-</td> </tr> </table>
-09 — LET'S BUILD
+</td>
+<td align="center" width="25%">
+
+04
+
+REBUILD
+
+Come back with a better architecture.
+
+</td>
+</tr>
+</table>
+
 <div align="center">
-I am interested in difficult problems, ambitious products and systems worth obsessing over.
-<br> <a href="https://github.com/farhanalam100"> <img src="https://img.shields.io/badge/GITHUB-0f172a?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://www.linkedin.com/"> <img src="https://img.shields.io/badge/LINKEDIN-0f172a?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+
+BUILD. SHIP. ITERATE.
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=64748B&center=true&vCenter=true&width=700&lines=Software+is+the+interface.;Systems+are+the+real+product.;Keep+building." alt="Closing animation">
 
 <br><br>
 
-BUILD SOMETHING USEFUL.
-MAKE IT REAL.
-THEN MAKE IT BETTER.
-<br> <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:312e81,50:0c4a6e,100:050816" width="100%" /> </div> ```
+<a href="https://github.com/farhanalam100"><img src="https://img.shields.io/badge/EXPLORE%20MY%20WORK-38BDF8?style=for-the-badge&logo=github&logoColor=white"></a>
+
+</div>
