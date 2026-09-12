@@ -1,10 +1,1 @@
-PHOTO SETUP
 
-Keep your new photo at:
-
-assets/farhan-profile.png
-
-The README intentionally uses the photo as a larger portrait panel rather than a small circular/square avatar.
-
-If the filename is different, rename the uploaded image to:
-farhan-profile.png
